@@ -1,4 +1,4 @@
-# Getting and clean data: Final asignment
+# Getting and clean data: Final assignment
 
 ###Final asignment of the course: Getting and Cleaning Data Coursera course. The R script, run_analysis.R, performes the following steps:
 
